@@ -20,13 +20,10 @@ Hoy me encuentro trabajando en una empresa de Ingeniería, y si bien soy dibujan
 Vivo en *Haedo*, pero soy originario de la *República de Hurlingham*.
 
 
-Me gusta el deporte, particularmente el fútbol.
+Me gusta el deporte, particularmente el fútbol. Los fines de semana suelo juntarme a jugar con grandes amigos que la UNaHur me dio.
 
 
 Soy hincha de Boca, procastinador y elocuente.
-
-
-Los fines de semana suelo juntarme a jugar con amigos que la UNaHur me dio.
 
 
 Me gusta mucho la fotografía, la cual practico casi regularmente. Hice varios cursos en el 2009, que desembocaron en la *Tecnicatura en Fotografía Profesional*en 2013/2014.
