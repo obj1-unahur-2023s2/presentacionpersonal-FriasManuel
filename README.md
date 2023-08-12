@@ -16,7 +16,7 @@ Hoy me encuentro trabajando en una empresa de Ingeniería, y si bien soy dibujan
 
 
 ## *Algo más sobre mi*
----
+
 Vivo en *Haedo*, pero soy originario de la *República de Hurlingham*.
 
 
