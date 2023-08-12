@@ -3,6 +3,11 @@
 Bienvenidos a
 # Programación con objetos I
 
+Esto es una prueba en base al video de como usar GIT de **Hernan Coniglio** del dia 13/8/2022.
+Es una prueba de como funciona. trato de seguir los paso del video y luego hacer mi presentacion.
+Tenia descargado el GIT anteriormente.
+Edite el archivo Readme en **VSc**.
+
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
 
