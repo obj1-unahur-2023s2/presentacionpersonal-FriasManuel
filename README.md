@@ -1,43 +1,37 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Manuel Frias
+Mi nombre es **Manuel**, tengo 37 años y soy estudiante de la *Tecnicatura Universitaria en Programación* desde el 2021.
 
-Esto es una prueba en base al video de como usar GIT de **Hernan Coniglio** del dia 13/8/2022.
-Es una prueba de como funciona. trato de seguir los paso del video y luego hacer mi presentacion.
-Tenia descargado el GIT anteriormente.
-Edite el archivo Readme en **VSc**.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+También me encuentro cursando la carrera *Ingeniería Eléctrica* en la ***UNaHur***, la cual comencé en 2016, y restan 4 materias para el título intermedio.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Comenzar a cursar Programación surge del deseo de fusionar o complementar ambas carreras en el ámbito laboral.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
-### Presentacion Personal
+Hoy me encuentro trabajando en una empresa de Ingeniería, y si bien soy dibujante de Ingeniería, en el último tiempo estuve manipulando mucho diferentes bases de datos. Lo que hago con esas bases son la carga de datos y demás, pero me interesa mucho todo el conocimiento con el que pueda complementar las herramientas que utilizo, tanto como la posibilidad de desarrollar nuevas o propias.
 
-Me llamo ...
 
-Me gusta ...
 
-Me dedico a / Trabajo de ...
 
-Les dejo una imagen mía 
+## *Algo más sobre mi*
+---
+Vivo en *Haedo*, pero soy originario de la *República de Hurlingham*.
 
-![subir archivo de imagen](imagen.jpg)
+
+Me gusta el deporte, particularmente el fútbol.
+
+
+Soy hincha de Boca, procastinador y elocuente.
+
+
+Los fines de semana suelo juntarme a jugar con amigos que la UNaHur me dio.
+
+
+Me gusta mucho la fotografía, la cual practico casi regularmente. Hice varios cursos en el 2009, que desembocaron en la *Tecnicatura en Fotografía Profesional*en 2013/2014.
+
+
+Me gusta leer, y me gusta aprender. Disfruto de estudiar.
+También me gusta ver series y películas. La música y el tiempo en familia y con amigos.
+
